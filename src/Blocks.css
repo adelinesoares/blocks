@@ -1,0 +1,20 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    width: 306px;
+    flex-wrap: wrap;
+}
+
+.block{
+    border: 1px solid black;
+    width: 100px ;
+    height: 100px ;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: chartreuse;
+}
